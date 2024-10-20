@@ -1,5 +1,9 @@
 # EASE_Project
 
+## NOTE: 
+The project is in progress, and we are working on resolving the file size issues related to large datasets and model weights using Git Large File Storage (LFS). The full dataset and model files will be available soon.
+
+
 ## How to Use
 
 ### Clone the repository:
