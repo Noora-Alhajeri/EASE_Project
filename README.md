@@ -10,6 +10,7 @@ Install dependencies:
 
 bash
 pip install -r requirements.txt
+bash
 
 Once the large files are uploaded, you'll be able to:
 
